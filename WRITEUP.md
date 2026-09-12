@@ -147,8 +147,7 @@ Limitations). Full loop — transcript in, structured extraction, retrieval
 match, drafted proposal, phone approval, saved output — worked without
 manual intervention on all three.
 
-![**c:\Users\veerk\Downloads\Video (1).gif**
-](<Video (1).gif>)
+   ![Full pipeline demo](demo.gif)
 ---
 
 ## Final result
