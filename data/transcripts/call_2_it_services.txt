@@ -1,0 +1,55 @@
+[Auto-generated transcript — Google Meet — 31:47]
+
+Rep: Thanks for making time, Farhan. Tell me a bit about Fixture IT.
+
+Farhan: We're a managed IT services provider, around 40 employees, mostly
+supporting small and mid-size businesses across the UAE. Help desk,
+network support, some cybersecurity work.
+
+Rep: And what's the pain point that brought you to us?
+
+Farhan: Our support ticket triage is entirely manual right now. Tickets
+come in through email and a web form, and one of our senior engineers has
+to read every single one, figure out the priority, and route it to the
+right technician. He's basically become a full-time ticket router instead
+of doing actual engineering work.
+
+Rep: How many tickets are we talking daily?
+
+Farhan: 60 to 80 on a normal day. During an outage it can spike to way
+more. The real problem is urgent tickets sometimes sit for 20-30 minutes
+before anyone even looks at them, because they're stuck in the same queue
+as "how do I reset my password" requests.
+
+Rep: Have you looked at any ticketing tools with built-in triage?
+
+Farhan: We use a standard helpdesk tool but its rules are just keyword
+matching, it's not smart enough to actually understand what's being
+described. We'd want something that reads the ticket, understands
+severity and the right specialization needed, tags it, and routes it —
+and flags anything that looks like a security incident immediately.
+
+Rep: Makes sense. Is there a human approval step you'd want, or should
+routing just happen automatically?
+
+Farhan: For routing, automatic is fine, our team trusts good triage more
+than they trust themselves doing it manually all day. But for anything
+tagged security-critical, I want a person to get pinged immediately, not
+just have it silently routed.
+
+Rep: Got it. Timeline-wise, is this urgent?
+
+Farhan: We just had an incident where a security-flagged ticket sat for 40
+minutes before someone caught it. My ops director wants a fix in place
+within the month, so yes, fairly urgent.
+
+Rep: And budget range?
+
+Farhan: We haven't fixed a number, this would need sign-off from our ops
+director too, not just me. But if the ROI case is clear — freeing up a
+senior engineer's time — that's an easy internal sell.
+
+Rep: Understood, I'll put a proposal together that makes that ROI case
+clearly and send it your way.
+
+Farhan: Appreciate it.

@@ -1,0 +1,49 @@
+[Auto-generated transcript — Zoom — 19:03]
+
+Rep: Hi Priya, thanks for booking this. What's going on at Layer Goods
+right now?
+
+Priya: We're a small D2C home goods brand, about 25 people, and honestly
+our inventory situation is chaos. We sell across our own site, Amazon and
+a couple of marketplaces, and reorder decisions are still done by
+someone manually checking spreadsheets once a week.
+
+Rep: What happens when that goes wrong?
+
+Priya: We've stocked out on two of our best sellers in the last quarter
+because nobody noticed the reorder point had been crossed until it was
+too late. Each stockout probably cost us $8-10k in lost sales, easily.
+
+Rep: Is the data itself available somewhere, or is that part of the
+problem too?
+
+Priya: The data's there, it's just scattered — Shopify has our
+direct-to-consumer numbers, Amazon Seller Central has its own, and our
+warehouse system has actual stock counts. Nobody's stitching it together
+in real time.
+
+Rep: If this worked the way you wanted, what would it actually do day to
+day?
+
+Priya: Pull stock levels and sell-through rate across all three channels,
+flag anything approaching its reorder point, and tell me — or whoever's
+on ops that week — before it becomes a stockout, not after. I don't need
+it to auto-place purchase orders, I still want a human deciding that, I
+just need the warning early enough to act.
+
+Rep: That's a reasonable scope. Any timeline pressure?
+
+Priya: We've got a seasonal push coming in about two months and I really
+don't want a repeat of last quarter during that window, so ideally this
+is live well before then.
+
+Rep: And on budget?
+
+Priya: Genuinely not sure what something like this costs, we've never
+built anything like it before. I'm the one who makes this call though, no
+one else needs to sign off.
+
+Rep: Good to know. I'll put together a proposal with a clear scope and
+pricing and get it to you this week.
+
+Priya: Perfect, thank you.

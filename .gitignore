@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/proposal_index.faiss
+data/proposal_meta.json
+output/*.md
+!output/.gitkeep
