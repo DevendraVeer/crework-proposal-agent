@@ -30,7 +30,7 @@ inbox.
 *(Tools used: Python, FastAPI, LangGraph, Groq (`llama-3.3-70b-versatile`),
 sentence-transformers + FAISS for retrieval, Telegram Bot API, ngrok)*
 
-**Code:** [GITHUB REPO LINK HERE]
+**Code:** https://github.com/DevendraVeer/crework-proposal-agent
 
 ---
 
